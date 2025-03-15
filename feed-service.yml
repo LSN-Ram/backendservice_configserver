@@ -2,7 +2,7 @@ spring:
   application:
     name: feed-service
 server:
-  port: 9001
+  port: 8901
 eureka:
   instance:
     hostname: localhost
